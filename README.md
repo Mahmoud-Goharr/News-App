@@ -1,42 +1,26 @@
-# 📰 News-App | تطبيق الأخبار [اذكر اسم التطبيق]
+# Live News App 📰
 
-**تطبيق أخبار عصري تم تطويره باستخدام Flutter لتوفير تجربة قراءة سريعة وسلسة.**
-
-## 🌟 البدء (Getting Started)
-
-هذا المشروع هو نقطة البداية لتطبيق Flutter. يمكنك البدء بتنفيذ الميزات الخاصة بك على هذا الأساس.
+A simple Flutter project to display live news from different categories with webview integration.
 
 ---
 
-### 🚀 كيفية تشغيل المشروع
-
-للمستخدمين الجدد، اتبع الخطوات التالية لتشغيل التطبيق محلياً:
-
-1.  **استنساخ المستودع (Clone the repo):**
-    ```bash
-    git clone [https://github.com/Mahmoud-Goharr/News-App.git](https://github.com/Mahmoud-Goharr/News-App.git)
-    ```
-2.  **الانتقال إلى المجلد:**
-    ```bash
-    cd News-App
-    ```
-3.  **جلب الحزم والاعتمادات:**
-    ```bash
-    flutter pub get
-    ```
-4.  **تشغيل التطبيق:**
-    ```bash
-    flutter run
-    ```
-    (تأكد من وجود جهاز محاكاة أو جهاز حقيقي متصل).
+## Features ✨
+- Home page showing all news categories 📑
+- Click any category to view the latest news 📰
+- Webview integration to open full news articles 🌐
+- Handles null images with Cached Network Image 🖼️
 
 ---
 
-## 📚 موارد مفيدة للمطورين (Resources)
+## Screenshots / Demo
+_Add your screenshots or GIFs here to showcase the app._  
+![App Screenshot](link-to-your-screenshot.png)
 
-إذا كانت هذه هي المرة الأولى لك في العمل على مشروع Flutter، إليك بعض الروابط للمساعدة:
+---
 
-* [**دورة عملية: اكتب أول تطبيق Flutter لك**](https://docs.flutter.dev/get-started/codelab)
-* [**دليل الوصفات: عينات Flutter مفيدة**](https://docs.flutter.dev/cookbook)
+## Getting Started 🚀
+Follow these steps to run the project locally:
 
-للمزيد من المساعدة في تطوير Flutter، يمكنك الاطلاع على **[التوثيق الرسمي عبر الإنترنت](https://docs.flutter.dev/)** الذي يقدم البرامج التعليمية، والأمثلة، وإرشادات التطوير، والمرجع الكامل لواجهات برمجة التطبيقات (API).
+1. **Clone the repository**
+```bash
+git clone https://github.com/Mahmoud-Goharr/News-App.git
