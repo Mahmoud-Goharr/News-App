@@ -1,26 +1,13 @@
-# Live News App 📰
+# Live News App
 
-A simple Flutter project to display live news from different categories with webview integration.
+This is my **first Flutter project**.
 
----
+## Getting Started
+This project is a starting point for my Flutter application journey.
 
-## Features ✨
-- Home page showing all news categories 📑
-- Click any category to view the latest news 📰
-- Webview integration to open full news articles 🌐
-- Handles null images with Cached Network Image 🖼️
+A few resources to help you get started if this is your first Flutter project:
 
----
+- **Lab:** Write your first Flutter app  
+- **Cookbook:** Useful Flutter samples  
 
-## Screenshots / Demo
-_Add your screenshots or GIFs here to showcase the app._  
-![App Screenshot](link-to-your-screenshot.png)
-
----
-
-## Getting Started 🚀
-Follow these steps to run the project locally:
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Mahmoud-Goharr/News-App.git
+For help getting started with Flutter development, view the [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
